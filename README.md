@@ -2,7 +2,7 @@
 A custom OS fully written in Rust
 
 ## Introduction
-This will be an operating system written in Rust. It will be designed to explore low-level programming and hardware interaction, and to be independent of larger systems. It will feature a minimal kernel and basic input/output. The project's main focus will be learning and experimentation, with plans to add more advanced features in the future. A custom desktop environment may be added later.
+This will be an operating system written in Rust. It will be designed to explore low-level programming and hardware interaction and to be independent of larger systems. It will feature a minimal kernel and basic input/output. The project's main focus will be learning and experimentation, with plans to add more advanced features in the future. A custom desktop environment may be added later.
 
 ## Core
 - [x] Add README and LICENSE files
