@@ -5,6 +5,7 @@ A custom OS fully written in Rust
 This will be an operating system written in Rust. It will be designed to explore low-level programming and hardware interaction, and to be independent of larger systems. It will feature a minimal kernel and basic input/output. The project's main focus will be learning and experimentation, with plans to add more advanced features in the future. A custom desktop environment may be added later.
 
 ## Core / Essential Tasks
+- [x] Add README and LICENSE files
 - [ ] Set up Rust OS project with `bootloader` crate
 - [ ] Implement kernel entry point (`kernel_main`)
 - [ ] Initialize VGA text output
@@ -20,7 +21,6 @@ This will be an operating system written in Rust. It will be designed to explore
   - [ ] Clock
   - [ ] Notes app
 - [ ] Set up build and test workflow (cargo + qemu)
-- [ ] Add README and LICENSE files
 - [ ] Ensure OS boots reliably in QEMU
 
 ## Future Features / Optional Enhancements
