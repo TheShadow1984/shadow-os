@@ -4,7 +4,7 @@ A custom OS fully written in Rust
 ## Introduction
 This is an operating system written in Rust. It is designed to explore low-level programming and hardware interaction, and to be independent of larger systems. It features a minimal kernel and basic input/output. The project's main focus is learning and experimentation, with plans to add more advanced features in the future. A custom desktop environment may be added later.
 
-#To-Do List
+# To-Do List
 
 ## Core / Essential Tasks
 - [ ] Set up Rust OS project with `bootloader` crate
