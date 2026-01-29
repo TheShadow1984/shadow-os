@@ -1,10 +1,10 @@
-# shadow-os
+# Shadow-OS
 A custom OS fully written in Rust
----
-##Introduction
-This will essentially be an operating system written in Rust. It will be designed to explore low-level programming and hardware interaction, and to be independent of larger systems. It will feature a minimal kernel and basic input/output. The project's main focus is learning and experimentation, and there are plans to add more advanced features in the future. I also hope to add a custom desktop environment.
----
-##Licence Information
+
+## Introduction
+This is an operating system written in Rust. It is designed to explore low-level programming and hardware interaction, and to be independent of larger systems. It features a minimal kernel and basic input/output. The project's main focus is learning and experimentation, with plans to add more advanced features in the future. A custom desktop environment may be added later.
+
+## License Information
 © 2026 Shadow – All Rights Reserved
 
 This project is for demonstration purposes and for learning only.
